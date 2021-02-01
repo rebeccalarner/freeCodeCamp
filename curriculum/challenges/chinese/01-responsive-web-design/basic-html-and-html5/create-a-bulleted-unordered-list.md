@@ -11,14 +11,14 @@ dashedName: create-a-bulleted-unordered-list
 
 HTML 有一个特定的元素用于创建<dfn>无序列表</dfn>。
 
-无序列表以 `<ul>` 开始，中间包含一个或多个 `<li>` 元素，最后以 `</ul>` 结束。
+无序列表以 `<ul>` 开始，中间包含一个或多个 `<li>` 元素， 最后以 `</ul>` 结束。
 
 例如:
 
 ```html
 <ul>
-  <li>牛奶</li>
-  <li>奶酪</li>
+  <li>milk</li>
+  <li>cheese</li>
 </ul>
 ```
 
